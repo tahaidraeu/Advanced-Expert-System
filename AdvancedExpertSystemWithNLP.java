@@ -105,7 +105,7 @@ public class AdvancedExpertSystemWithNLP {
 
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("أهلين وسهلين في نظام الخبير لأختيار الهواتف");
+        System.out.println("أهلين وسهلين في النظام الخبير المخصص للمساعدة في اختيار هاتفك");
         System.out.println("كيف نقدر نساعدوك");
         String query = scanner.nextLine();
 
