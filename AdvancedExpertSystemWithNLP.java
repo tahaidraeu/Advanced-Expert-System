@@ -106,7 +106,7 @@ public class AdvancedExpertSystemWithNLP {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         System.out.println("أهلين وسهلين في النظام الخبير المخصص للمساعدة في اختيار هاتفك");
-        System.out.println("كيف نقدر نساعدوك");
+        System.out.println("كيف نقدر نساعدك");
         String query = scanner.nextLine();
 
 // Set the dataset of the instance to the created Instances object
